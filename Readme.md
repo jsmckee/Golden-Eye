@@ -6,6 +6,7 @@ Simple concept project written in Python, TypeScript, leveraging Angular, MQTT, 
 
 1. Setup your .env file
 1. Run docker-compose up -d
+1. Run the Python apps
 1. Enjoy!
 
 ## Example .env file
